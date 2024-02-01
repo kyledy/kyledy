@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Kyle!<br><br>🚀 About Me:<br><br>💼 3rd Year Computer Science Major at UBC <br>🛠️ Python, Node.js, React, C++, Java, SQL <br>🌱 Current Focus: Full-stack development of healthcare applications.<br><br>🤝 Let's Connect:<br>Open to collaboration! Reach me at kylematthewdy0104@gmail.com.<br><br>Thanks for visiting! Let's create something awesome together.
+Hey, I'm Kyle!<br><br>🚀 About Me:<br><br>💼 3rd Year Computer Science Major at UBC <br>🛠️ Python, Node.js, React, C++, Java, SQL <br>🌱 Current Focus: Full-stack development.<br><br>🤝 Let's Connect:<br>Open to collaboration! Reach me at kylematthewdy0104@gmail.com.<br><br>Thanks for visiting! Let's create something awesome together.
 
 
 ## 🌐 Socials:
