@@ -11,9 +11,6 @@ Hey, I'm Kyle!<br><br>🚀 About Me:<br><br>💼 3rd Year Computer Science Major
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kyledy&icon=0&color=0)](https://visitcount.itsvg.in)
 
